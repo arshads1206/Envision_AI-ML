@@ -1,5 +1,3 @@
-# Envision_AI-ML
-
 # Chest X-ray 3-Class Classifier (Normal, Pneumonia, Tuberculosis)
 
 ## Overview
